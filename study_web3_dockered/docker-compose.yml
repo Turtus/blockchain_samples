@@ -1,0 +1,11 @@
+version: '2'
+services:
+  study_web3:
+    image: blocksoft/study_web3
+    container_name: study_web3
+    restart: always
+    volumes:
+      - ./code/:/usr/code
+    environment:
+      LANG: C.UTF-8
+      TIMEZONE: UTC

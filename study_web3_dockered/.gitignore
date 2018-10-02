@@ -1,0 +1,5 @@
+/.idea/*
+.idea/
+/code/node_modules/
+/nbproject/private/
+/nbproject/

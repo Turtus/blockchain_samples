@@ -1,0 +1,12 @@
+{
+    "name": "blocksoft-study-web3",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "npm run test",
+        "test": "node test.js"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "web3": "latest"
+    }
+}
