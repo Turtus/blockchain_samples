@@ -1,0 +1,10 @@
+{
+  "name": "fun",
+  "version": "1.0.0",
+  "devDependencies": {
+    "web3": "^1.7.0"
+  },
+  "dependencies": {
+    "@metamask/eth-sig-util": "^4.0.0"
+  }
+}
